@@ -128,3 +128,4 @@ dmypy.json
 
 # test data 
 test_data/*
+tools/__pycache__/__init__.cpython-37.pyc
