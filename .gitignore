@@ -129,3 +129,9 @@ dmypy.json
 # test data 
 test_data/*
 tools/__pycache__/__init__.cpython-37.pyc
+MRIQC_mriqception_bold.html
+MRIQC_mriqception_T1w.html
+MRIQC_QC_bold.html
+MRIQC_QC_bold.xlsx
+MRIQC_QC_T1w.html
+MRIQC_QC_T1w.xlsx
